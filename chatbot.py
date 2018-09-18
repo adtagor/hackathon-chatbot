@@ -11,7 +11,7 @@ import pymysql
 from user import register_user
 
 BOT_TOKEN  =  '673895642: AAGvtuwlxnUNuysUu7mPifNLAHIWJ0L0uvk'
-APIAI_ACCESS_TOKEN = 'b7317ce06532454d859370280dd6ed74'
+APIAI_ACCESS_TOKEN = '0193f2bda4ff4c9f9831ff89ba4b79c2'
 
 bot = telepot.Bot(BOT_TOKEN)
 ai = apiai.ApiAI(APIAI_ACCESS_TOKEN)
