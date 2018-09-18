@@ -10,7 +10,7 @@ from telepot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton
 import pymysql
 from user import register_user
 
-BOT_TOKEN = '594045106:AAGbFWB_Z2iyN62u4dVihVa2E5XNXhNqpi4'
+BOT_TOKEN  =  '673895642: AAGvtuwlxnUNuysUu7mPifNLAHIWJ0L0uvk'
 APIAI_ACCESS_TOKEN = 'b7317ce06532454d859370280dd6ed74'
 
 bot = telepot.Bot(BOT_TOKEN)
